@@ -10,7 +10,7 @@ spec:
   csi:
     driver: ebs.csi.aws.com
     fsType: ext4
-    volumeHandle: vol-0da15952e45ced5e9 
+    volumeHandle:  vol-043a98d7c99fbfa5c  
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
